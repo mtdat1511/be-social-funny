@@ -1,6 +1,6 @@
-# nodejs-express-typescript-scaffold
-This is scaffold for a project structured with Nodejs, Express and Typescript which live debugging is enabled.
+# Backend for social funny
 
-please refer to this article :
+## Contribution
 
-https://medium.com/@sunnystatue/setup-nodejs-express-typescript-project-enabled-live-edit-when-debugging-4fea0f51dbb3
+[Dat Mai](https://www.facebook.com/datbatista.dd)
+[Dong Nguyen](https://www.facebook.com/tony.quynh)
